@@ -34,6 +34,6 @@ PRODUCT_GMS_CLIENTID_BASE := android-motorola
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     TARGET_PRODUCT=tundra_g \
-    PRIVATE_BUILD_DESC="tundra_g-user 12 S1RD32.55-106 0cdff5-e7305 release-keys"
+    PRIVATE_BUILD_DESC="tundra_g-user 12 S3SJS32.1-86-1-3 b57e0-cb1dd8 release-keys"
 
-BUILD_FINGERPRINT := motorola/tundra_g/tundra:12/S1RD32.55-106/0cdff5-e7305:user/release-keys
+BUILD_FINGERPRINT := motorola/tundra_g/tundra:12/S3SJS32.1-86-1-3/b57e0-cb1dd8:user/release-keys
