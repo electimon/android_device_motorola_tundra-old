@@ -134,7 +134,7 @@
 
          @see https://www.w3.org/TR/SVG/paths.html#PathData
          -->
-    <string translatable="false" name="config_mainBuiltInDisplayCutout">M -50,0 L 50,0 L 50,115 L -50,115 Z</string>
+    <string translatable="false" name="config_mainBuiltInDisplayCutout">M -31,0 L -31,95 L 31,95 L 31,0 Z</string>
 
 	<!-- Indicate whether to allow the device to suspend when the screen is off
          due to the proximity sensor.  This resource should only be set to true
